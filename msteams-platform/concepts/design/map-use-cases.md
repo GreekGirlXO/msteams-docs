@@ -7,21 +7,21 @@ ms.author: anclear
 ---
 # Map your use cases to teams app capabilities
 
-If you haven't already, make sure you've [considered your use cases](~/concepts/design/map-use-cases.md) carefully. You should also have a good understanding of the [extensibility points and UI elements](~/concepts/extensibility-points.md) available for your app. Once you've figured out *what* your trying to solve, and *who* you're solving it for, it is time to start thinking about *how*.
+If you haven't already, make sure you've [considered your use cases](~/concepts/design/map-use-cases.md) carefully. You should also have a good understanding of the [extensibility points and UI elements](~/concepts/extensibility-points.md) available for your app. Once you've figured out *what* your're trying to solve, and *who* you're solving it for, it's time to start thinking about *how*.
 
-Below you'll find some common scenarios, and a selection of extensibility points and UI elements that work well with them. It isn't intended to be an exhaustive list, just to help you think through some of the possibilities available to you and the Teams platform.
+Below you'll find some common scenarios and a selection of extensibility points and UI elements that work well with them. It isn't intended to be an exhaustive list, just to help you think through some of the possibilities available to you and the Teams platform.
 
 ## Create, share and collaborate on items in an external system
 
-App for Microsoft Teams are a great way to interact with your data, and there are a variety of integration points to choose from.
+Apps for Microsoft Teams are a great way to interact with your data and there are a variety of integration points to choose from.
 
 * Messaging extensions with search commands - Search external systems and share the results as an interactive card.
 
 * Messaging extensions with action commands - Collect information to insert into a data store or perform advanced searches.
 
-* Tabs - Create embedded web experiences to view, work with, and share data.
+* Tabs - Create embedded web experiences to view, work with and share data.
 
-* Connectors and webhooks - A simple way to push data into, and send data out of the Teams client.
+* Connectors and webhooks - A simple way to push data into and send data out of the Teams client.
 
 * Task modules - Interactive modal forms from wherever you need them to collect or display information.
 
@@ -47,7 +47,7 @@ Send asynchronous notifications and alerts to your users in Teams. Use interacti
 
 ## Ask questions and get answers
 
-People have questions. You've probably got a lot of the answers stored away somewhere. Unfortunately, its often quite difficult to connect the two together.
+People have questions. You've probably got a lot of the answers stored away somewhere. Unfortunately, it's often quite difficult to connect the two.
 
 * Conversational bots - Natural language processing, AI, machine learning, all the buzzwords. Use a bot powered by the intelligent cloud to connect your users to the answers they need.
 
@@ -55,9 +55,9 @@ People have questions. You've probably got a lot of the answers stored away some
 
 ## Get social
 
-A collaboration platform is inherently a social platform. Let your creative side be free, and add some fun into your workplace.
+A collaboration platform is inherently a social platform. Let your creative side be free and add some fun into your workplace.
 
-* All of them - Send jokes, give kudos, get some memes, toss out some emoji's or whatever else strikes your fancy.
+* All of them - Send jokes, give kudos, get some memes, toss out some emojis, or whatever else strikes your fancy.
 
 ## Anything you can do in a Single Page App (SPA)
 
